@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BaseAdapter</string>
+
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="cep">CEP</string>
+    <string name="cidade">Cidade</string>
+    <string name="complemento">Complemento</string>
+    <string name="rua">Rua</string>
+    <string name="site">Site</string>
+    <string name="telefone">Telefone</string>
+    <string name="e_mail">E-mail</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="nome">Nome</string>
+
+</resources>
